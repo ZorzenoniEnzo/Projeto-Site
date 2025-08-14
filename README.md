@@ -16,7 +16,7 @@ Este é um projeto de estudo e prática das linguagens HTML5 e CSS3, com o objet
 ## 📈 Acompanhamento de Atualizações
 Para visualizar o histórico de alterações e melhorias feitas no projeto, acesse o arquivo abaixo:
 
-[➡ **Clique aqui para ver o Histórico de Avanços**](README-AVANCOS.md)
+[➡ **Clique aqui para ver o Histórico de Avanços**](README-AVANÇOS.md)
 
 ---
 
