@@ -11,6 +11,16 @@ Este é um projeto de estudo e prática das linguagens HTML5 e CSS3, com o objet
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
+## 📈 Acompanhamento de Atualizações
+Para visualizar o histórico de alterações e melhorias feitas no projeto, acesse o arquivo abaixo:
+
+[➡ **Clique aqui para ver o Histórico de Avanços**](README-AVANCOS.md)
+
+---
+
+
 
 
 ## Licença
