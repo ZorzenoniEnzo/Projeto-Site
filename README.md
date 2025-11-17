@@ -22,7 +22,7 @@ Para visualizar o histórico completo de alterações, melhorias e evolução do
 
 ---
 
-📚 Objetivo do Projeto
+## 📚 Objetivo do Projeto
 
 O projeto "Universidade Uness" foi criado para:
 
