@@ -2,7 +2,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-Este é um projeto de estudo e prática das linguagens HTML5 e CSS3, com o objetivo de consolidar conhecimentos e registrar o progresso no desenvolvimento web.
+
+Este é um projeto de estudo e prática das linguagens HTML5 e CSS3, criado com o objetivo de consolidar conhecimentos em desenvolvimento web e acompanhar a evolução do aprendizado.
 
 ## Linguagens de Programação
 
@@ -14,12 +15,26 @@ Este é um projeto de estudo e prática das linguagens HTML5 e CSS3, com o objet
 ---
 
 ## 📈 Acompanhamento de Atualizações
-Para visualizar o histórico de alterações e melhorias feitas no projeto, acesse o arquivo abaixo:
+
+Para visualizar o histórico completo de alterações, melhorias e evolução do projeto, acesse o arquivo abaixo:
 
 [➡ **Clique aqui para ver o Histórico de Avanços**](README-AVANÇOS.md)
 
 ---
 
+📚 Objetivo do Projeto
+
+O projeto "Universidade Uness" foi criado para:
+
+- Praticar estruturação de páginas com HTML5
+
+- Aprimorar estilização com CSS3
+
+- Desenvolver lógica de organização de conteúdo
+
+- Simular um site institucional simples
+
+- Registrar o progresso ao longo do aprendizado
 
 
 
